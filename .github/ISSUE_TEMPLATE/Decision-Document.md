@@ -1,19 +1,11 @@
-<!--
-Decision Document Template
-
-Note: This template is a perfect candidate for Github forms. Once this feature is out of Beta, we should update the template to be a form vs below markdown.
-
-Info: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
- -->
-
- ---
+---
  name: Decision Document
  about: Used to outline a decision that has been made, along with the context, proposal, consequences, and alternatives considered in making that decision.
  title: '[Decision Doc] Decision Title'
  labels: 'Decision Doc'
  assignees: ''
 
- ---
+---
 
 **Authors:** Team Name
 **Last Updated:**
