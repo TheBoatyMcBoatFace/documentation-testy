@@ -6,7 +6,6 @@
  assignees: ''
 
 ---
-
 **Authors:** Team Name
 **Last Updated:**
 **Status:**		Draft | In Review | Approved
@@ -31,7 +30,7 @@
 
 ## Other Options Considered
 
-***Example:*** *Another option that we considered was to create a separate mobile app for our website. This would allow us to tailor the user experience specifically for mobile devices, and potentially provide additional features not available on the website. However, this option was ultimately deemed too time-consuming and costly to pursue at this time. Instead, we will focus on optimizing the website for mobile devices, which should provide a more immediate and cost-effective solution.*
+***Sample:*** *Another option that we considered was to create a separate mobile app for our website. This would allow us to tailor the user experience specifically for mobile devices, and potentially provide additional features not available on the website. However, this option was ultimately deemed too time-consuming and costly to pursue at this time. Instead, we will focus on optimizing the website for mobile devices, which should provide a more immediate and cost-effective solution.*
 
 ## Assumptions
 
