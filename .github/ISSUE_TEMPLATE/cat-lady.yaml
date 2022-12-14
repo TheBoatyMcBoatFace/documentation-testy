@@ -1,5 +1,5 @@
 ---
-name: Cat Lady Membership Application
+name: Testy Memby App
 description: Tell us what qualifies you to be a registered cat fancier.
 body:
 - type: textarea
